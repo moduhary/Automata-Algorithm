@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/moduhary/Algorithm/HW2/RBtree.cpp
+RBtree.h
+/home/moduhary/Algorithm/HW2/RBtree.h
+cstdlib
+/home/moduhary/Algorithm/HW2/cstdlib
+
+/home/moduhary/Algorithm/HW2/RBtree.h
+
+/home/moduhary/Algorithm/HW2/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+RBtree.h
+/home/moduhary/Algorithm/HW2/RBtree.h
+
